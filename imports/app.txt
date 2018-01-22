@@ -1,0 +1,277 @@
+videos:[
+        {
+          caitid:1,
+          subcatid:1,
+          videos:[
+                      {
+                        title:'Learn HTML 2017',
+                        videos:[
+                          {yvid:"BLnkNidYtgA",description:"Learn HTML 2017 #1: Intro | Complete HTML Course Tutorial"},
+                          {yvid:"vQrZ5hr3Nuk",description:"Learn HTML 2017 #2: Editor Setup and Website File Structure Tutorial"},
+                          {yvid:"UOefpIrPHlI",description:"Learn HTML 2017 #3: Headings & Paragraphs | Complete HTML Course"},
+                          {yvid:"O8Yr3WQjyOM",description:"Learn HTML 2017 #4: Text Formatting | Complete HTML Course"},
+                          {yvid:"hGcHiHvvRUE",description:"Learn HTML 2017 #5: Block vs Inline Elements | Complete HTML Course"},
+                          {yvid:"SELcGXo5tjM",description:"Learn HTML 2017 #6: Semantic Markups | Complete HTML Course"},
+                          {yvid:"astxzv_h_4k",description:"Learn HTML 2017 #7: Create An HTML List | Complete HTML Course"},
+                          {yvid:"g12QWqf7ajU",description:"Learn HTML 2017 #8: List Bullet (Mark) Types | Complete HTML Course"},
+                          {yvid:"jMnoN8EL8ww",description:"Learn HTML 2017 #9: Links (Internal, External, Email) | Complete HTML Course"},
+                          {yvid:"CEjaKXYeaJU",description:"Learn HTML 2017 #10: Create Links To Different Sections On The Same Page"},
+                          {yvid:"iqYM1JZZ6-Y",description:"How To Add Images, Videos, and Audios in HTML"},
+                          {yvid:"DBCGINVKkLw",description:"Learn HTML 2017 #12: How To Create Tables | Tutorial"},
+                          {yvid:"IMGMIVZPwWg",description:"Learn HTML 2017 #13: How To Create Forms"},
+                        ]
+                      },
+                      {
+                        title:'HTML Tutorial for Beginners EJ Media',
+                        videos:[
+                          {yvid:"dD2EISBDjWM",description:"HTML Tutorial for Beginners - 00 - Introduction to HTML"},
+                          {yvid:"-USAeFpVf_A",description:"HTML Tutorial for Beginners - 01 - Creating the first web page"},
+                          {yvid:"i3GE-toQg-o",description:"HTML Tutorial for Beginners - 02 - Line breaks, spacing, and comments"},
+                          {yvid:"09oErCBjVns",description:"HTML Tutorial for Beginners - 03 - Ordered and Unordered lists"},
+                          {yvid:"wvR40su_XBM",description:"HTML Tutorial for Beginners - 04 - Creating a table"},
+                          {yvid:"U4UHoiK6Oo4",description:"HTML Tutorial for Beginners - 05 - Creating a web link"},
+                          {yvid:"bCt2FnyY7AE",description:"HTML Tutorial for Beginners - 06 - Creating links within same web page"},
+                          {yvid:"Zy4KJeVN7Gk",description:"HTML Tutorial for Beginners - 07 - Adding a image to a web page"},
+                          {yvid:"dM12ctixdT4",description:"HTML Tutorial for Beginners - 08 - Resizing and sizing images"},
+                          {yvid:"rO6_MZLIzCg",description:"HTML Tutorial for Beginners - 09 - Nested elements"},
+                          {yvid:"wvU1mmJn_UI",description:"HTML Tutorial for Beginners - 10 - One-line text box"},
+                          {yvid:"f9QXNFVlsls",description:"HTML Tutorial for Beginners - 11 - Add label to text box"},
+                          {yvid:"onKF88kRK3Q",description:"HTML Tutorial for Beginners - 12 - Multi-line text box"},
+                          {yvid:"NDAa6EaKce8",description:"HTML Tutorial for Beginners - 13 - Radio buttons"},
+                          {yvid:"g4UAV1lIHyA",description:"HTML Tutorial for Beginners - 14 - Checkbox"},
+                          {yvid:"NPfy-hKOGfk",description:"HTML Tutorial for Beginners - 15 - Number input box"},
+                          {yvid:"yWuAsqUnNsA",description:"HTML Tutorial for Beginners - 16 - Drop-down list"},
+                          {yvid:"H6BSr5UOg2Y",description:"HTML Tutorial for Beginners - 17 - Date and number box"},
+                          {yvid:"x13Uxl6_dyw",description:"HTML Tutorial for Beginners - 18 - Fieldbox and Legend elements"},
+                          {yvid:"iWWTtYGZ4YA",description:"HTML Tutorial for Beginners - 19 - Attributes"},
+                          {yvid:"sx4kaeyzQzw",description:"HTML Tutorial for Beginners - 20 - The meta element"},
+                          {yvid:"s3h5FLBon88",description:"HTML Tutorial for Beginners - 21 - Escape characters"},
+                          {yvid:"X_OROia6aPo",description:"HTML Tutorial for Beginners - 22 - Bold and italic elements"},
+                          {yvid:"7PORMYx30xE",description:"HTML Tutorial for Beginners - 23 - iframe element"},
+                          {yvid:"iG703SLOJ-Q",description:"HTML Tutorial for Beginners - 24 - sup and sub elements"},
+                          {yvid:"kA5pqPA5eZE",description:"HTML Tutorial for Beginners - 25 - Title and alt attributes"},
+                          {yvid:"7tWBcT83hek",description:"HTML Tutorial for Beginners - 26 - Audio element"},
+                          {yvid:"2aenvVrYWjg",description:"HTML Tutorial for Beginners - 27 - Audio element attributes"},
+                          {yvid:"iIgFqkDs4tY",description:"HTML Tutorial for Beginners - 28 - Video element"},
+                          {yvid:"c625P4B0OY0",description:"HTML Tutorial for Beginners - 29 - doctype"},
+                        ]
+                      }
+
+
+                      ]
+        },
+        {
+          caitid:1,
+          subcatid:2,
+          videos:[
+                      {
+                        title:'Learn Javascript 2017 (Complete Javascript Course) whatsdev',
+                        videos:[
+                          {yvid:"UAZRq7Ev5No",description:"Learn Javascript Programming #1: Variables and Data Types"},
+                          {yvid:"mebadGY5ic0",description:"Learn Javascript Programming #2: Methods and Properties"},
+                          {yvid:"4eqJNLl-03U",description:"Learn Javascript Programming #3: Conditionals & Control Flow (If Statements, Logical Operators)"},
+                          {yvid:"BxFi7vVZx4s",description:"Learn Javascript Programming #4: For Loops (Looping Through Numbers, Arrays, Objects)"},
+                          {yvid:"eQS9C_ZxKt0",description:"Learn Javascript Programming #5: While Loops"},
+                          {yvid:"uiv3oLsHbaI",description:"Learn Javascript Programming #6: Functions"},
+                        ]
+                      },
+                      {
+                        title:'JavaScript Tutorials Playlist thenewboston',
+                        videos:[
+                          {yvid:"yQaAGmHNn9s",description:"Beginner JavaScript Tutorial - 1 - Introduction to JavaScript"},
+                          {yvid:"yUyJ1gcaraM",description:"Beginner JavaScript Tutorial - 2 - Comments and Statements"},
+                          {yvid:"og4Zku5VVl0",description:"Beginner JavaScript Tutorial - 3 - Variables"},
+                          {yvid:"sY8qiSaAi9g",description:"Beginner JavaScript Tutorial - 4 - Different Types of Variables"},
+                          {yvid:"QLpghQ2MMfs",description:"Beginner JavaScript Tutorial - 5 - Using Variables with Strings"},
+                          {yvid:"5nuqALOHN1M",description:"Beginner JavaScript Tutorial - 6 - Functions"},
+                          {yvid:"7i1f23AVsn4",description:"Beginner JavaScript Tutorial - 7 - Using Parameters with Functions"},
+                          {yvid:"BgtdojEoWFI",description:"Beginner JavaScript Tutorial - 8 - Functions with Multiple Parameters"},
+                          {yvid:"AdQcd3sKGC8",description:"Beginner JavaScript Tutorial - 9 - The return Statement"},
+                          {yvid:"95mIis5M-gU",description:"Beginner JavaScript Tutorial - 10 - Calling a Function From Another Function"},
+                          {yvid:"waF2Isf-phQ",description:"Beginner JavaScript Tutorial - 11 - Global & Local Variables"},
+                          {yvid:"ZH5qZB0UucQ",description:"Beginner JavaScript Tutorial - 12 - Math Operators"},
+                          {yvid:"VfBr32W-hRA",description:"Beginner JavaScript Tutorial - 13 - Assignment Operators"},
+                          {yvid:"5gjr15aWp24",description:"Beginner JavaScript Tutorial - 14 - if Statement"},
+                          {yvid:"FKyrQYkihGw",description:"Beginner JavaScript Tutorial - 15 - if/else Statement"},
+                          {yvid:"ebjo8_u82mI",description:"Beginner JavaScript Tutorial - 16 - Nesting and Fridays!"},
+                          {yvid:"aQf-zeuHijU",description:"Beginner JavaScript Tutorial - 17 - Complex Conditions"},
+                          {yvid:"NXMu5ljw9kc",description:"Beginner JavaScript Tutorial - 18 - switch"},
+                          {yvid:"Coxgr66EwRk",description:"Beginner JavaScript Tutorial - 19 - for Loop"},
+                          {yvid:"QPFW_0blw9w",description:"Beginner JavaScript Tutorial - 20 - while Loop"},
+                          {yvid:"7Eb7D_IOaog",description:"Beginner JavaScript Tutorial - 21 - do while"},
+                          {yvid:"9rvB27xXO_I",description:"Beginner JavaScript Tutorial - 22 - Event Handlers"},
+                          {yvid:"OleFcGMPZKI",description:"Beginner JavaScript Tutorial - 23 - onMouseOver & onLoad"},
+                          {yvid:"mgwiCUpuCxA",description:"Beginner JavaScript Tutorial - 24 - Objects"},
+                          {yvid:"6xLcSTDeB7A",description:"Beginner JavaScript Tutorial - 25 - Creating Our Own Objects"},
+                          {yvid:"0TL5SRttIs0",description:"Beginner JavaScript Tutorial - 26 - Object Initializers"},
+                          {yvid:"6lQEtgFnZTY",description:"Beginner JavaScript Tutorial - 27 - Adding Methods to Our Objects"},
+                          {yvid:"nEvBcwlpkBQ",description:"Beginner JavaScript Tutorial - 28 - Arrays"},
+                          {yvid:"CSL9A8j5cAY",description:"Beginner JavaScript Tutorial - 29 - Other Ways to Create Arrays"},
+                          {yvid:"PE5A0jLIxBg",description:"Beginner JavaScript Tutorial - 30 - Array Properties and Methods"},
+                          {yvid:"rhnqA9kmFRE",description:"Beginner JavaScript Tutorial - 31 - join and pop"},
+                          {yvid:"Yl6PSgHPHF0",description:"Beginner JavaScript Tutorial - 32 - reverse, push, sort"},
+                          {yvid:"n6pCS-w1M3o",description:"Beginner JavaScript Tutorial - 33 - Add Array Elements Using a Loop"},
+                          {yvid:"UH5QPYMFlIM",description:"Beginner JavaScript Tutorial - 34 - Cool Technique to Print Array Elements"},
+                          {yvid:"uTCyLN3iKeA",description:"Beginner JavaScript Tutorial - 35 - Associative Arrays"},
+                          {yvid:"F30jLIqGQpo",description:"Beginner JavaScript Tutorial - 36 - Math Objects"},
+                          {yvid:"Xhqvh52VsIo",description:"Beginner JavaScript Tutorial - 37 - Date Objects"},
+                          {yvid:"IzkAi2QMp7Y",description:"Beginner JavaScript Tutorial - 38 - Accessing Forms"},
+                          {yvid:"VvB4gDYhcgo",description:"Beginner JavaScript Tutorial - 39 - Accessing Form Elements"},
+                          {yvid:"RzVURjrIFxo",description:"Beginner JavaScript Tutorial - 40 - Simple Form Validation"},
+                        ]
+                      }
+
+                      ]
+        },
+        {
+          caitid:1,
+          subcatid:3,
+          videos:[
+                      {
+                        title:'Learn CSS',
+                        videos:[
+                          {yvid:"M0RHgNqvmxs",description:"Learn CSS #1: The What, Why, and How | Intro"},
+                          {yvid:"B1URDgh_DIo",description:"Learn CSS #2: The difference between ID and Class Selectors"},
+                          {yvid:"ndM8b-hnSwM",description:"Learn CSS #3: What is Specificity and Cascade?"},
+                          {yvid:"P4x9GyqBWE0",description:"Learn CSS #4: CSS Floats and Clears Demystified | Positioning Elements"},
+                          {yvid:"7uLVxPBuaDA",description:"Learn CSS #5: The Box Model"},
+                          {yvid:"TiY5FuwgocI",description:"Learn CSS #6: Positioning Elements | Absolute vs Relative"},
+                        ]
+                      }
+                ]
+        },
+        {
+          caitid:1,
+          subcatid:4,
+          videos:[
+                    {
+                    title:'React JS Tutorials LearnCode.academy',
+                    videos:[
+                      {yvid:"MhkGQAoc7bc",description:"REACT JS TUTORIAL #1 - Reactjs Javascript Introduction & Workspace Setup"},
+                      {yvid:"fd2Cayhez58",description:"REACT JS TUTORIAL #2 - Reactjs Components & Rendering"},
+                      {yvid:"vu_rIMPROoQ",description:"REACT JS TUTORIAL #3 - Composing Multiple React.js Components"},
+                      {yvid:"qh3dYM6Keuw",description:"REACT JS TUTORIAL #4 - State vs Props & Application Data"},
+                      {yvid:"_D1JGNidMr4",description:"REACT JS TUTORIAL #5 - Javascript Events & Data Changes in React"},
+                      {yvid:"1iAG6h9ff5s",description:"REACT JS TUTORIAL #6 - React Router & Intro to Single Page Apps with React JS"},
+                      {yvid:"ZBxMljq9GSE",description:"REACT JS TUTORIAL #7 - React Router Params & Queries"},
+                      {yvid:"XVdwq8W2ZsM",description:"REACT JS TUTORIAL #8 - React Inline Styles & Component Arrays"},
+                      {yvid:"PvjNglsyOHs",description:"REACT FLUX TUTORIAL #9 - React Flux Introduction & Flux Stores"},
+                      {yvid:"bvEC6i7CUyE",description:"REACT FLUX TUTORIAL #10 - Flux Store Events"},
+                      {yvid:"MZfCVq5iCBw",description:"REACT FLUX TUTORIAL #11 - The Flux Dispatcher"},
+                      {yvid:"0yW7C22ooos",description:"REACT FLUX TUTORIAL #12 - Flux Actions"},
+                      {yvid:"CuYd9uDB0vg",description:"REACT FLUX TUTORIAL #13 - Asynchronous & AJAX Flux Actions"},
+                      {yvid:"Fgd2ivSnXXo",description:"REACT FLUX TUTORIAL #14 - React & Flux Memory Leaks"},
+                      {yvid:"1w-oQ-i1XB8",description:"Redux Tutorial #1 - React js tutorial - How Redux Works"},
+                      {yvid:"9M-r8p9ey8U",description:"Immutable JS - Redux Tutorial #2 - React.js Tutorial"},
+                      {yvid:"ucd5x3Ka3gw",description:"Basic Redux Introduction - Redux Tutorial #3"},
+                      {yvid:"gBER4Or86hE",description:"Multiple Reducers with Redux Reducers - Redux React Tutorial #4"},
+                      {yvid:"DJ8fR0mZM44",description:"Redux Middleware Tutorial - Redux Tutorial #5"},
+                      {yvid:"Td-2D-_7Y2E",description:"Redux Async Actions - Redux Tutorial #6"},
+                      {yvid:"nrg7zhgJd4w",description:"Connecting React & Redux - Redux Tutorial #7"},
+                      {yvid:"_q50BXqkAfI",description:"MobX tutorial #1 - MobX + React is AWESOME"},
+                      {yvid:"nYvNqKrl69s",description:"MobX tutorial #2 - Computed Values and Nested/Referenced Observables"},
+
+                    ]
+                  },
+                  {
+                    title:'React JS Tutorials for Beginners thenewboston',
+                    videos:[
+                      {yvid:"-AbaV3nrw6E",description:"React JS Tutorials for Beginners - 1 - Getting Started"},
+                      {yvid:"2NLgQMs2hOw",description:"React JS Tutorials for Beginners - 2 - Simple Demo"},
+                      {yvid:"OzqR10jG1pg",description:"React JS Tutorials for Beginners - 3 - Components"},
+                      {yvid:"z14df09bWfc",description:"React JS Tutorials for Beginners - 4 - Rendering Multiple Components"},
+                      {yvid:"i1PLMgtG5Qo",description:"React JS Tutorials for Beginners - 5 - Props"},
+                      {yvid:"bH7UXQTCfm4",description:"React JS Tutorials for Beginners - 6 - Event Handling"},
+                      {yvid:"5tT8FXeE1Y8",description:"React JS Tutorials for Beginners - 7 - State"},
+                      {yvid:"g6a5yC_v70c",description:"React JS Tutorials for Beginners - 8 - Adding State to Components"},
+                      {yvid:"TWzA2Ir1ZJc",description:"React JS Tutorials for Beginners - 9 - refs"},
+                      {yvid:"bBiITqaO08E",description:"React JS Tutorials for Beginners - 10 - Multiple Child Components"},
+                      {yvid:"GBoJOVNzc_0",description:"React JS Tutorials for Beginners - 11 - Updating State and Removing Components"},
+                      {yvid:"szmS_M-BMls",description:"React JS Tutorials for Beginners - 12 - Passing Function as Props"},
+                      {yvid:"OKRu7i49X54",description:"React JS Tutorials for Beginners - 13 - Creating New Components"},
+                    ]
+                    }
+
+          ]
+        },
+        {
+          caitid:1,
+          subcatid:5,
+          videos:[
+                      {
+                        title:'nodejs',
+                        videos:[
+                          {yvid:"-u-j7uqU7sI",description:"Node.js Tutorial for Beginners - 1 - Installing on Windows"},
+                          {yvid:"Imj8PgG3bZU",description:"Node.js Tutorial for Beginners - 2 - Installing on Mac OS X"},
+                          {yvid:"jiSFfpw3Btc",description:"Node.js Tutorial for Beginners - 3 - Basic Concepts"},
+                          {yvid:"KsjrN-T3ZCs",description:"Node.js Tutorial for Beginners - 4 - Handling Multiple Requests"},
+                          {yvid:"kNHrHSTYs1U",description:"Node.js Tutorial for Beginners - 5 - Understanding References to Objects"},
+                          {yvid:"uiZxziF4Ol8",description:"Node.js Tutorial for Beginners - 6 - this"},
+                          {yvid:"IW2M8G8uJ6o",description:"Node.js Tutorial for Beginners - 7 - Prototype"},
+                          {yvid:"9JhvjhZLsEw",description:"Node.js Tutorial for Beginners - 8 - Modules"},
+                          {yvid:"aNN1IKoEIdM",description:"Node.js Tutorial for Beginners - 9 - More on Modules"},
+                          {yvid:"Fo7IRCjrxMk",description:"Node.js Tutorial for Beginners - 10 - Shared State of Modules"},
+                          {yvid:"foUHJo8ZTu0",description:"Node.js Tutorial for Beginners - 11 - Object Factory"},
+                          {yvid:"_cnJcXwwQRA",description:"Node.js Tutorial for Beginners - 12 - Core Modules"},
+                          {yvid:"pYOltVz7kL0",description:"Node.js Tutorial for Beginners - 13 - Creating a Basic Server"},
+                          {yvid:"_D2w0voFlEk",description:"Node.js Tutorial for Beginners - 14 - Simple Web File Server"},
+                          {yvid:"54aol-U_1es",description:"Node.js Tutorial for Beginners - 15 - Connect"},
+                          {yvid:"WH5qsGnFkBM",description:"Node.js Tutorial for Beginners - 16 - Express"},
+                          {yvid:"hdNuw0mk3xY",description:"Node.js Tutorial for Beginners - 17 - Handling User Requests"},
+                          {yvid:"EY9uY1rxazk",description:"Node.js Tutorial for Beginners - 18 - Understanding app.js"},
+                          {yvid:"RgAseumFyg8",description:"Node.js Tutorial for Beginners - 19 - EJS"},
+                          {yvid:"vV28ilGSJGQ",description:"Node.js Tutorial for Beginners - 20 - Adding More Pages"},
+                          {yvid:"7y1fjXouLCA",description:"Node.js Tutorial for Beginners - 21 - Working with JSON Data"},
+                          {yvid:"UQVGvokR7hE",description:"Node.js Tutorial for Beginners - 22 - Passing JSON Data Using Routes"},
+                        ]
+                      }
+                  ]
+        },
+        ]
+        =========================================================================
+        <div style={{display:'flex',alignItems:'center',flexWrap:'wrap',width:'100%',flexFlow:'column',height:"100%"}}>
+
+          <iframe  className="myiframe"
+          src={`https://www.youtube.com/embed/${this.state.videoid == null ? this.state.myvideo == null ? "" : this.state.myvideo[this.state.controllid].videos[0].yvid : this.state.videoid }?rel=0&amp;showinfo=0`}
+          frameBorder="0" gesture="media" allow="encrypted-media" allowFullScreen></iframe>
+
+              <div style={{fontSize:20,margin:10}}>{this.state.myvideo[this.state.controllid].title}</div>
+            <ul className="demo-list-two mdl-list mylist">
+            {
+              this.state.myvideo[this.state.controllid].videos == null ?  null :this.state.myvideo[this.state.controllid].videos.map((vid,i)=>{
+                return(
+                  <li className={`mdl-list__item mdl-list__item--two-line individuallist  ${this.state.videoid === vid.yvid ? "individualselectedlist" : "notselectedlist"}`} key={i}  onClick={()=>{this.setState({videoid:null},()=>{
+                    let that = this;
+                    setTimeout(function(){
+                      that.setState({videoid:vid.yvid},()=>{
+                      })
+                    }, 500);
+                  })}} >
+                    <span className="mdl-list__item-primary-content" >
+                      <i className={`material-icons mdl-list__item-avatar  red-text`}   onClick={()=>{this.setState({videoid:null},()=>{
+                        let that = this;
+                        setTimeout(function(){
+                          that.setState({videoid:vid.yvid},()=>{
+                            console.log(vid.yvid);
+                          })
+                        }, 500);
+                      })}} >play_circle_filled</i>
+                      <span>{vid.description}</span>
+                      <span className="mdl-list__item-sub-title">Episode {i+1}</span>
+                    </span>
+                    <span className="mdl-list__item-secondary-content">
+                      <span className="mdl-list__item-secondary-info">Actor</span>
+                      <a className="mdl-list__item-secondary-action" href="#"><i className="material-icons">star</i></a>
+                    </span>
+                  </li>
+                )
+              })
+            }
+            </ul>
+
+
+            </div>
+
+
+            ============================================
+            <iframe width="100%" height="100% " src="https://www.youtube.com/embed/videoseries?list=PLdWwWjr_AbFiAfDaSE3cpQw7276MLhBsG" modestbrandin="1" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen></iframe>
