@@ -107,6 +107,7 @@ componentDidUpdate() {
                </section>
                <section className="mdl-layout__tab-panel" id="scroll-tab-2">
                  <div className="page-content">Raising problems module coming soon</div>
+                 <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2Flapcards%2Fposts%2F173837106537861%3Fcomment_id%3D191779914743580&include_parent=false" style={{border:'none',overflow:'hidden'}} scrolling="no" frameBorder="0" allowtransparency="true"></iframe>
                </section>
               </div>
             </main>
