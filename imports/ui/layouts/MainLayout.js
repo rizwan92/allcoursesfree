@@ -62,6 +62,7 @@ class MainLayouts extends Component {
           <div>
             <h1 className="mdl-typography--display-3 bold-text">Welcome to <span className="intro-section-name mdl-color-text--primary">allcoursesfree.com</span></h1>
             <p>GET ALL COURSES FOR FREE<br /></p>
+            <p>Contact : drop your email at chouhan.rizwan@gmail.com<br /></p>
             <div>
               <a href="/dashboard/website-development"  className="mdl-button mdl-js-button mdl-button--raised mdl-button--colored my-mixed_case">Get started</a>
             </div>
